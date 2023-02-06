@@ -1,0 +1,8 @@
+@font-face {
+    font-family: norwester;
+    src: url(../public/norwester.otf);
+}
+
+* {
+    font-family: norwester;
+}
